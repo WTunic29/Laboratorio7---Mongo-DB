@@ -1,0 +1,4 @@
+# Opcional: documentacion de variables de entorno.
+MONGO_URI=mongodb://localhost:27017
+MONGO_DATABASE=ArquiSW
+PORT=8080
